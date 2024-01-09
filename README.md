@@ -1,2 +1,2 @@
 # Simon-says-game
-In this game we use our learning power to play this game. this  game very interesting and fun .
+Simon-Says test your memory and remember the pattern of lights. Repeat the same pattern played by the computer Every time the pattern is extended with one extra step. How far can you get?
